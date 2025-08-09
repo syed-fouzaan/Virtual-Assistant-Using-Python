@@ -1,0 +1,8 @@
+pyttsx3
+pywhatkit
+pyautogui
+pvporcupine
+pyaudio
+flask
+SpeechRecognition
+PyAudio
